@@ -4,7 +4,7 @@ PyMagic 快速参考
 =================
 
 .. image:: images/pymagic-pinout.jpg
-    :alt: pymagic v1.0 pinout
+    :alt: PyMagic pinout
     :width: 750px
 	
 .. image:: images/pybv10-pinout.jpg

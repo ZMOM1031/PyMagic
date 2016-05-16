@@ -27,5 +27,6 @@ PyMagic 参考文档
    configure
    quickref
    general
+   tut-script
    flash-dfu
    
