@@ -15,7 +15,7 @@ PyMagic 上手配置
 ::
 
    main.py	// 开机自动运行文件，可以将自己的代码放在里面
-   boot.py	// 开机引到文件，由它加载main.py
+   boot.py	// 开机引到文件，由它加载 main.py
    pybcdc.inf	// Windows下的虚拟串口驱动文件
    README.txt	// 简要说明
 
@@ -26,51 +26,50 @@ Windows
 1、使用 USB 连接到 PyMagic
 
 .. image:: images/configure-01.png
-    :alt: PYB v1.0 pinout
+    :alt: 
 
 2、打开设备管理器，安装驱动
 
 .. image:: images/configure-02.png
-    :alt: PYB v1.0 pinout
+    :alt: 
     :width: 700px
 
 .. image:: images/configure-03.png
-    :alt: PYB v1.0 pinout
+    :alt: 
     :width: 700px
 
 .. image:: images/configure-04.png
-    :alt: PYB v1.0 pinout
+    :alt: 
     :width: 700px
 
 .. image:: images/configure-05.png
-    :alt: PYB v1.0 pinout
+    :alt: 
     :width: 700px
 
 .. image:: images/configure-06.png
-    :alt: PYB v1.0 pinout
+    :alt: 
     :width: 700px
 
 .. image:: images/configure-07.png
-    :alt: PYB v1.0 pinout
+    :alt: 
     :width: 700px
 
 3、打开 `PuTTY <http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html>`_ 模拟终端，连接设备
 
-
 .. image:: images/configure-08.png
-    :alt: PYB v1.0 pinout
+    :alt: 
     :width: 700px
 
 4、打开后默认看到的是 ``main.py`` 里的代码，按 `Ctrl + C` 可终止执行。
 
 .. image:: images/configure-09.png
-    :alt: PYB v1.0 pinout
+    :alt: 
     :width: 700px
 
 5、在 ``Python Shell`` 里输入 ``help()`` 查看帮助信息。
 
 .. image:: images/configure-10.png
-    :alt: PYB v1.0 pinout
+    :alt: 
     :width: 700px
 
 Linux
