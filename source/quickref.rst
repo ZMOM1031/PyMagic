@@ -1,7 +1,7 @@
 .. _quickref:
 
 PyMagic 快速参考
-===============================
+=================
 
 .. image:: images/pymagic-pinout.jpg
     :alt: pymagic v1.0 pinout
